@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "name": "Heloisa Tosta",
+    "email": "tosta@teste.com.br",
+    "phone": "67 99248-8789",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "00570112141",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Heloisa Tosta",
+    "email": "tosta@teste.com.br",
+    "phone": "67 99248-8789",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "54392133000180",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
